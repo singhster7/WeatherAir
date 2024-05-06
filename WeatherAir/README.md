@@ -60,10 +60,8 @@ It is an engaging project that allows users to explore real-time information abo
 
 1. Clone the project repository.
 2. Install dependencies using `npm install` or `yarn install`.
-3. Obtain an API key (if required) and configure it in the project.
+3. Obtain an API key  and configure it in the project.
 4. Run the development server using `npm start` or `yarn start`.
 5. Open the application in a web browser, input ICAO codes, and explore the real-time airport data.
 
-**Conclusion:**
 
-"Airflix" not only provides an interactive and educational experience for users interested in aviation but also serves as a practical demonstration of React and the `useState` hook in action. By following the project, developers can enhance their skills in API integration, state management, and building responsive React applications.
