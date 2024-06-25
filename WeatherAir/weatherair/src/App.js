@@ -14,9 +14,9 @@ function App() {
     const data = await response.json();
     console.log(data.name);
 
-    setAirportName(data.name);
-    setAirportlink(data.home_link);
-    setAirportKeyword(data.keywords);
+     setAirportName(data.name);
+     setAirportlink(data.home_link);
+     setAirportKeyword(data.keywords);
    } 
 
 
